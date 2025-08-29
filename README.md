@@ -11,9 +11,6 @@ Instructions:
 <p align="center">
   A Web Developer.
 </p>
-<p align="center">
-  <a href="https://github.com/<sachinshahi754>"><img alt="GitHub followers" src="https://img.shields.io/github/followers/<sachinshahi754>?label=Follow&style=for-the-badge"></a>
-  <a href="https://github.com/<sachinshahi754>"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=<sachinshahi754>&style=for-the-badge"></a>
   <a href="mailto:<sachinshahi754@gmail.com>"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"></a>
   <img alt="Location" src="https://img.shields.io/badge/Nepal-Asia%2FKathmandu-red?style=for-the-badge" />
 </p>
@@ -53,19 +50,6 @@ Instructions:
   Dynamic pricing controls (demand factor, weekend/holiday multipliers), KPI cards, booking charts, and CSV exports.
   🔗 Demo/Repo: <[https://github.com/](https://github.com/)<sachinshahi754>/car_rental_system>
 
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<sachinshahi754>&show_icons=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=<sachinshahi754>" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<sachinshahi754>&layout=compact" alt="Top languages" />
-</p>
 
 
 
